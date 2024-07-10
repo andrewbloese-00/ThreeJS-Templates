@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box; 
+	border:none;
+	padding:0;
+	margin: 0;
+	font-size: 16px;
+}
+
+body,html {
+	background-color:#000;
+	color: #fff;
+} 
+
+
+/* EXAMPLE CODE */
+#cleanupBtn { 
+	padding: 10px 12px;
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	font-size: 110%;
+	background-color: #3333333c;
+	color: white;
+	border-radius: 10px;
+
+}
